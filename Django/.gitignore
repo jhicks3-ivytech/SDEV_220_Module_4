@@ -31,4 +31,4 @@ $RECYCLE.BIN/
 .history/
 *.code-workspace
 
-Django/db.sqlite3
+.Django/db.sqlite3
