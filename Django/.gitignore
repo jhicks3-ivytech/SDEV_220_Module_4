@@ -9,7 +9,10 @@ myvenv/
 venv/
 
 # Database
-db.sqlite3
+.Django/db.sqlite3
+
+# Static folder at project root
+/static/
 
 # Static folder at project root
 /static/
